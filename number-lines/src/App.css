@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background-color: rgb(84, 144, 223);
+  border: 2px solid black;
+  border-radius: 5%;
+  margin-bottom: 55px;
+  margin-right: 20px;
+  margin-left: 20px;
+  color: white;
+}
+
+.Header {
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.ButtonGroup {
+  align-items: center;
+  margin: 40px;
+}
+
+.USER {
+  color: red;
+}
+.GOAL {
+  color: rgb(250, 169, 6);
+}
+
+.card {
+  background-color: #282c34;
+  align-items: center;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.card-title {
+  padding: 10px;
+}
+.confetti {
+  width: 100%;
+  height: auto;
+}
+.hidden {
+  display: none;
+}
+
+.number-line {
+  font-size: 15px;
+  margin: 40px;
+}
+.equals {
+  margin: 30px;
+}
+.CorrectAnswers {
+  padding: 40px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 100%;
+}
+
+/* .number-line {
+  float: left;
+} */
